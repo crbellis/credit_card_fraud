@@ -1,2 +1,2 @@
-# credit_card_fraud
+# credit card fraud
 Credit Card Fraud Detection Model
